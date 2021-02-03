@@ -1,0 +1,39 @@
+#Thought{
+    padding: 5% 50% 5% 10%;
+    font-family: 'Dancing Script', cursive;
+
+}
+body{
+    background-image: url("/Css/Images/pexels-karolina-grabowska-4397907.jpg");
+    background-size: 100% 100%;
+}
+.time1
+{ 
+   width:10%; 
+   height: 10%;
+   /* border: 1px solid black; */
+   margin-left: 20%;
+   font-family: 'Dancing Script', cursive;
+}
+.time2
+{
+    width:50%;
+    padding-left:5%;
+    font-family: 'Sriracha', cursive;
+}
+.navv{
+    color:white;
+}
+.bar{
+    font-family: 'Courgette', cursive;
+}
+.footer {
+  height:50%;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+}
